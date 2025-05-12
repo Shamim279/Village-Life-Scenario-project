@@ -1,1 +1,1 @@
-# Village-Life-Scenario-project
+Computer Graphics Project using OpenGL library in C++ Language
